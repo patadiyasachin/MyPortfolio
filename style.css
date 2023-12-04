@@ -320,8 +320,6 @@ a:hover {
 	}
 
 	.heading {
-		/* margin-left: 45vh;
-		margin-top: 30vh; */
 		font-size: 21px;
 		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 		display: block;
@@ -387,7 +385,6 @@ a:hover {
 	.parent {
 		display: flex;
 		flex-direction: column;
-		/* margin-top: 50px; */
 		margin: 20px;
 	}
 
